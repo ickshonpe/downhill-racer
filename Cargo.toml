@@ -1,0 +1,10 @@
+[package]
+name = "downhill-racer"
+version = "0.1.0"
+authors = ["David"]
+
+[dependencies]
+piston_window = "*"
+rand = "*"
+find_folder = "*"
+piston2d-opengl_graphics = "*"
